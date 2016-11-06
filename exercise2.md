@@ -1,4 +1,8 @@
 # NTU GIT CLASS EXERCISE 2-1
 
-Hello in my favorite 
-*** C printf("Hello! World!\n") ***
+```
+int main(void) {
+  printf("Hello! World!\n");
+  return 0;
+  }
+```
