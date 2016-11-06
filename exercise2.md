@@ -1,3 +1,5 @@
 # NTU GIT CLASS EXERCISE 2-1
 
-printf("Hello World!!!\n");
+Hello in my favorite python
+S = "Hello World!"
+print S
